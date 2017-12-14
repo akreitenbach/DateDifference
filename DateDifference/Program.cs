@@ -6,6 +6,7 @@ namespace DateDifference
     {
         static void Main(string[] args)
         {
+            //Enter the first day
             Console.Write("Enter the first day of school:");
             var date1 = Console.ReadLine();
             //convert to Date
